@@ -19,6 +19,7 @@ GiveDapp.sol is a smart contract from ETH San Francisco hackathon Oct 2018.
 ###### A simple contract to enable donations from a web application displayed on a mobile device.
 ###### enable with Coinbase OAuth2
 ###### the donation address can be swapped out for different causes.
+###### created with the Colin Lowenburg and David Craige
 
 
 _____________________________________________________________________________________________________
